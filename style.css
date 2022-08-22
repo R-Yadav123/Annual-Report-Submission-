@@ -1,0 +1,324 @@
+.topnav {
+  background-color: #ede0d4;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+
+}
+
+.topnav a:hover {
+  background-color: #d8a48f;
+  transition: 0.5s;
+}
+
+
+.topnav a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  height: 60px;
+  
+}
+mark{
+  background-color: lightyellow;
+  color: black;
+}
+
+
+.row{
+text-decoration: none;
+font-size: 45px;
+font-family: 'Archivo Black', sans-serif;
+text-align:left;
+}
+.container {
+  position: relative;
+  text-align:left;
+  color: black;
+  object-fit: cover;
+  display:block;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+.containerimage {
+  position: relative;
+  text-align:center;
+  color: white;
+  object-fit: cover;
+  display:block;
+    font-family: 'Courier New', Courier, monospace;
+  font-size:15px;
+
+}
+.containerimage_mission {
+  position: relative;
+  text-align:center;
+  color: white;
+  object-fit: cover;
+  display:block;
+    font-family: 'Courier New', Courier, monospace;
+  font-size:15px;
+
+}
+.imagecontainer {
+  position: relative;
+  top:0;
+  left:0;
+  text-align:left;
+  color: black;
+  object-fit: cover;
+  display:block;
+font-family: 'Archivo Black', sans-serif;
+  
+
+}
+.imagecontainer_image {
+  position: relative;
+  top:0;
+  left:0;
+  text-align:left;
+  color: black;
+  object-fit: cover;
+  display:block;
+font-family: 'Archivo Black', sans-serif;
+font-size: 30px;
+  
+
+}
+
+.image-container {
+  position: relative;
+  text-align:center;
+  color: black;
+  object-fit: cover;
+  display:block;
+font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  
+
+}
+
+
+
+.container2 {
+  position: relative;
+  text-align:left;
+  color: black;
+  object-fit: cover;
+  display:block;
+  font-family: 'Courier New', Courier, monospace;
+
+
+}
+.centered2 {
+ position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+
+}
+.centered-background {
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   font-family: 'Courier New', Courier, monospace;
+   text-align: left;
+}
+.centered-background3 {
+   position: absolute;
+   top: 55%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+
+}
+.centered-background2 {
+  position: absolute;
+   white-space:nowrap;
+   overflow: hidden;
+   text-overflow:clip;
+   font-family: 'Courier New', Courier, monospace;
+   top: 46%;
+   left: 64%;
+   transform: translate(-50%,-50%);
+   
+}
+
+.video {
+  margin: auto;
+  margin-left: 50vw;
+  transform: translate(-95%);
+  display: flex;
+  justify-content: center;
+}
+
+.centered {
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+.centered-numbers {
+  position: absolute;
+   top: 45%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.topleft {
+  position: absolute;
+   top: 40px;
+   left: 30px;
+   transform: translate(45%,-50%);
+   font-family:'Courier New', Courier, monospace;
+}
+.topcenter {
+  position: absolute;
+   top: 20%;
+   left: 480px;
+    display: inline-block;
+ text-align: center;
+
+}
+.topcenter_mission {
+  position: absolute;
+   top: 1%;
+   left: 480px;
+  
+   transform: translate(-8%,-5%);
+  display: inline-block;
+ text-align: center;
+
+}
+
+
+.parallax {
+  background-image: url("KWK_19.jpg");
+  min-height:800px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallaxslider {
+  background-image: url("KWK_6.jpg");
+  min-height:800px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallax2 {
+  background-image: url("KWK_1.jpg");
+  min-height:800px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallax3 {
+  background-image: url("KWK_21.jpg");
+  min-height:800px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallax4 {
+  background-image: url("KWK_20.jpg");
+  min-height:800px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallax5 {
+  background-image: url("KWK_17.jpg");
+  min-height:800px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallax6 {
+  background-image: url("KWK_12.jpg");
+  min-height:900px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallax7 {
+  background-image: url("KWK_5.jpg");
+  min-height:900px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.parallax8 {
+  background-image: url("KWK_4.JPG");
+  min-height:900px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  display:block;
+}
+.button {
+background-color:#b07d62;
+ color: white;
+ padding: 20px;
+ border-radius: 4px;
+ font-size: 15px;
+}
+
+hr {
+  border: 20 px black;
+}
+.intro {
+    text-decoration: none;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align:center;
+}
+.wave {
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align:center;
+ 
+
+}
+
+.footer {
+ height: 80px;
+ min-height: 100%;
+ margin-bottom: -50px;
+  background: #ede0d4;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+
+}
+
+  
+
