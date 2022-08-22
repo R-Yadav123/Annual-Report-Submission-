@@ -10,4 +10,4 @@ Overview: This website features a 2021 annual report for the computer science pr
 In this website, I used an image scroll view with a "button to the top" along with a navigation bar. Moreover, images, pictures, and various features are included in this website.
 
 
-Thsi website was fully coded in HTML and CSS.
+This website was fully coded in HTML and CSS.
